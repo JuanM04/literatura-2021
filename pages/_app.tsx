@@ -1,6 +1,7 @@
 import "@/utils/styles.css";
 
 import { AppProps } from "next/app";
+import Head from "next/head";
 
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
@@ -11,6 +12,10 @@ function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <div className="font-display">
+      <Head>
+        <title>Ensayos</title>
+      </Head>
+
       <Header bigHeader={bigHeader} />
       <main className="max-w-screen-xl mx-auto px-2">
         <Component {...pageProps} />

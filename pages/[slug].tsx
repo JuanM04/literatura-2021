@@ -1,6 +1,7 @@
 import fs from "fs/promises";
 import matter from "gray-matter";
 import { GetStaticPaths, GetStaticProps } from "next";
+import Head from "next/head";
 import Image from "next/image";
 import { MDXRemote, MDXRemoteSerializeResult } from "next-mdx-remote";
 import { serialize } from "next-mdx-remote/serialize";
@@ -55,6 +56,10 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
 export default function EnsayoPage({ metadata, source, slug }: Props) {
   return (
     <div>
+      <Head>
+        <title>{metadata.titulo} - Ensayos</title>
+      </Head>
+
       <h1 className="text-center leading-none tracking-tight text-4xl sm:text-5xl md:text-7xl font-bold mt-8">
         {metadata.titulo}
       </h1>
