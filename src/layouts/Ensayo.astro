@@ -1,0 +1,60 @@
+---
+import Header from '../components/Header'
+import Footer from '../components/Footer'
+
+import {ensayoMetadataSchema} from '../utils/validation.ts'
+
+const metadata = ensayoMetadataSchema.parse(Astro.props.content)
+const slug = Astro.request.url.pathname.substr(1)
+---
+
+<html lang="es">
+  <head>
+    <title>{metadata.titulo} - Ensayos</title>
+    <link rel="stylesheet" href="/global.css">
+  </head>
+
+  <body class="font-display">
+    <Header />
+
+    <main class="max-w-screen-xl mx-auto px-4">
+      <h1 class="text-center leading-none tracking-tight text-4xl sm:text-5xl md:text-7xl font-bold mt-8">
+        {metadata.titulo}
+      </h1>
+      <div class="flex items-center justify-center gap-2 text-sm md:text-base mt-4 md:mt-8 mb-8">
+        <div class="relative rounded-full overflow-hidden w-8 h-8 md:w-12 md:h-12">
+          <img
+            src={`/autores/${metadata.autor.instagram}.jpg`}
+            alt={metadata.autor.nombre}
+            objectFit="cover"
+            objectPosition="center"
+          />
+        </div>
+        <div class="leading-none">
+          <p>{metadata.autor.nombre}</p>
+          <p class="text-gray-600 hover:text-red-500 transition-colors">
+            <a
+              href={`https://www.instagram.com/${metadata.autor.instagram}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              @{metadata.autor.instagram}
+            </a>
+          </p>
+        </div>
+      </div>
+      <div class="prose prose-red lg:prose-xl mx-auto">
+        <img
+          src={`/ensayos-assets/${slug}/${metadata.cabezera.src}`}
+          alt={metadata.cabezera.alt}
+          width={700}
+          height={400}
+          objectFit="cover"
+        />
+        <slot/>
+      </div>
+    </main>
+    
+    <Footer />
+  </body>
+</html>

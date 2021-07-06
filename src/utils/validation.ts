@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from 'zod'
 
 export const ensayoMetadataSchema = z.object({
   titulo: z.string().nonempty(),
@@ -6,14 +6,12 @@ export const ensayoMetadataSchema = z.object({
     nombre: z.string().nonempty(),
     instagram: z
       .string()
-      .regex(
-        /^[A-Za-z0-9_](?:(?:[A-Za-z0-9_]|(?:\.(?!\.))){0,28}(?:[A-Za-z0-9_]))?$/
-      ),
+      .regex(/^[A-Za-z0-9_](?:(?:[A-Za-z0-9_]|(?:\.(?!\.))){0,28}(?:[A-Za-z0-9_]))?$/),
   }),
   cabezera: z.object({
     src: z.string().nonempty(),
     alt: z.string().optional(),
   }),
-});
+})
 
-export type EnsayoMetadata = z.infer<typeof ensayoMetadataSchema>;
+export type EnsayoMetadata = z.infer<typeof ensayoMetadataSchema>

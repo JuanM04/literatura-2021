@@ -6,6 +6,7 @@ autor:
 cabezera:
   src: canosa.jpg
   alt: Viviana Canosa tomando dióxido de cloro
+layout: ../layouts/Ensayo.astro
 ---
 
 Todas las mañanas leo las noticias mientras desayuno. Abro varios diarios digitales y me informo; leo sobre qué sucedió ayer para enfrentarme al hoy. Personalmente, no consumo medios televisivos ni radiales, pero conocidos y familiares sí y en mayor medida que la impresa o digital. Es la fuente principal de actualidad de la gran mayoría de personas, incluyéndome. Nos enteramos de los sucesos más recientes, ya sucedan a doscientos kilómetros o a diez cuadras. A decir verdad, es una maravilla logística cómo nos llega tanta información desde lugares tan lejanos y en tan poco tiempo, ¡cómo nos informan!… ¿no?
@@ -47,4 +48,3 @@ Cabe mencionar la Ley 26.522, más conocida como Ley de Medios, cuyo objeto es d
 Que los medios de comunicación se transformen en entretenimiento no es muy lindo. No hay mucha alternativa que nos permita resolver la omisión de noticias (salvo que te introduzcas en lugares oscuros de la internet), pero sí se puede eliminar parcialmente la subjetividad de los hechos: leer la misma noticia de varios lugares distintos y (de ser posible) de la fuente oficial. Además, hay medios que realmente intentan ser imparciales; varios dependen de una suscripción periódica para mantenerse a flote y no suelen ser muy conocidos.
 
 Asimismo, aunque consumamos estos medios _de nicho_, seguiremos siendo bombardeados con noticias basura. Estamos condenados a un cuarto poder que no elegimos, que sigue intereses monetarios y que cambia nuestra forma de pensar sin nuestro consentimiento. Y eso que estamos en la era de la información.
-

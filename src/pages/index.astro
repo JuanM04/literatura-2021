@@ -1,0 +1,61 @@
+---
+import clsx from 'clsx'
+
+import Header from '../components/Header'
+import Footer from '../components/Footer'
+
+const ensayos = Astro.fetchContent('./*.md')
+
+const anomalies = [
+  "xl:col-start-2 xl:col-end-4 xl:row-start-1 xl:row-end-3",
+  "xl:col-start-1 xl:col-end-4 xl:row-start-4",
+  "xl:col-start-2 xl:col-end-4 xl:row-start-7",
+  "xl:col-start-1 xl:col-end-3 xl:row-start-[8]",
+]
+---
+
+<html lang="es">
+  <head>
+    <title>Ensayos</title>
+    <link rel="stylesheet" href="/global.css">
+  </head>
+
+  <body class="font-display">
+    <Header />
+
+    <main class="max-w-screen-xl mx-auto px-2">
+      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 justify-center">
+        {ensayos.map((ensayo, i) => {
+          const anormal = anomalies.length > i;
+
+          return (
+            <div
+              class={clsx(
+                "relative w-full min-h-[300px] rounded-lg overflow-hidden shadow hover:shadow-xl transition-shadow",
+                anormal && anomalies[i]
+              )}
+            >
+              <img
+                src={`/ensayos-assets${ensayo.url}/${ensayo.cabezera.src}`}
+                alt={ensayo.cabezera.alt}
+                layout="fill"
+                objectFit="cover"
+                objectPosition="center"
+              />
+              <a href={ensayo.url} class="relative w-full h-full flex justify-center items-center backdrop-brightness-50 hover:backdrop-brightness-[0.75] transition-all">
+                <p
+                  class={clsx(
+                    "text-white font-bold drop-shadow text-3xl",
+                    anormal && "xl:text-5xl"
+                  )}
+                >
+                  {ensayo.titulo}
+                </p>
+              </a>
+            </div>
+          );
+        })}
+      </div>
+    <Footer />
+  </body>
+</html>

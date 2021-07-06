@@ -3,7 +3,7 @@ const defaultTheme = require("tailwindcss/defaultTheme");
 /** @type{import("tailwindcss/tailwind-config").TailwindConfig} */
 module.exports = {
   mode: "jit",
-  purge: ["{components,pages}/**/*.{ts,tsx}"],
+  purge: ["src/{components,layouts,pages}/**/*.astro"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
