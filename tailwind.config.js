@@ -22,7 +22,7 @@ module.exports = {
             css: {
               textAlign: "justify",
               fontFamily: theme("fontFamily.body").join(", "),
-              color: theme("colors.black"),
+              // color: theme("colors.black"),
               h1: heading,
               h2: heading,
               h3: heading,
