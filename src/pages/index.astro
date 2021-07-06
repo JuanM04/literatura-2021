@@ -46,7 +46,7 @@ const anomalies = [
               )}
               style={`background-image: url('/ensayos-assets${ensayo.url}/${ensayo.cabezera.src}');`}
             >
-              <a href={ensayo.url} class="w-full h-full flex justify-center items-center backdrop-brightness-50 hover:backdrop-brightness-[0.75] transition-all">
+              <a href={ensayo.url} class="w-full h-full flex flex-col justify-center items-center backdrop-brightness-50 hover:backdrop-brightness-[0.75] transition-all">
                 <p
                   class={clsx(
                     "text-white font-bold drop-shadow text-3xl",
@@ -54,6 +54,14 @@ const anomalies = [
                   )}
                 >
                   {ensayo.titulo}
+                </p>
+                <p
+                  class={clsx(
+                    "text-white drop-shadow text-sm",
+                    anormal && "xl:text-base"
+                  )}
+                >
+                  Por <span class="font-bold">{ensayo.autor.nombre}</span>
                 </p>
               </a>
             </div>
