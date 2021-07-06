@@ -3,6 +3,7 @@ import clsx from 'clsx'
 
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import GlobalHead from '../components/GlobalHead'
 
 // TODO: Add the rest of ensayos
 
@@ -20,8 +21,13 @@ const anomalies = [
 
 <html lang="es">
   <head>
+    <GlobalHead />
     <title>Ensayos</title>
-    <link rel="stylesheet" href="/global.css">
+    <!-- <meta name="description" content="" /> -->
+    <meta property="og:title" content="Ensayos" />
+    <meta property="og:type" content="website" />
+    <!-- <meta property="og:image" content="" /> -->
+    <meta property="og:url" content={Astro.request.url.href} />
   </head>
 
   <body class="font-display">

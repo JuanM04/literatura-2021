@@ -1,17 +1,25 @@
 ---
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import GlobalHead from '../components/GlobalHead'
 
 import {ensayoMetadataSchema} from '../utils/validation.ts'
 
 const metadata = ensayoMetadataSchema.parse(Astro.props.content)
+
 const slug = Astro.request.url.pathname.substr(1)
+const cabezeraUrl = `/ensayos-assets/${slug}/${metadata.cabezera.src}`
 ---
 
 <html lang="es">
   <head>
+    <GlobalHead />
     <title>{metadata.titulo} - Ensayos</title>
-    <link rel="stylesheet" href="/global.css">
+    <!-- <meta name="description" content="" /> -->
+    <meta property="og:title" content={`${metadata.titulo} - Ensayos`} />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content={cabezeraUrl} />
+    <meta property="og:url" content={Astro.request.url.href} />
   </head>
 
   <body class="font-display">
@@ -41,11 +49,7 @@ const slug = Astro.request.url.pathname.substr(1)
         </div>
       </div>
       <div class="prose prose-red lg:prose-xl mx-auto">
-        <img
-          src={`/ensayos-assets/${slug}/${metadata.cabezera.src}`}
-          alt={metadata.cabezera.alt}
-        />
-
+        <img src={cabezeraUrl} alt={metadata.cabezera.alt} />
         <slot/>
       </div>
     </main>
