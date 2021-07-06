@@ -1,4 +1,4 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
+const defaultTheme = require("tailwindcss/defaultTheme")
 
 /** @type{import("tailwindcss/tailwind-config").TailwindConfig} */
 module.exports = {
@@ -11,11 +11,11 @@ module.exports = {
         display: ["Chivo", ...defaultTheme.fontFamily.sans],
         body: ["Unna", ...defaultTheme.fontFamily.serif],
       },
-      typography: (theme) => {
+      typography: theme => {
         const heading = {
           fontFamily: theme("fontFamily.display").join(", "),
           textAlign: "left",
-        };
+        }
 
         return {
           DEFAULT: {
@@ -31,7 +31,7 @@ module.exports = {
               h6: heading,
             },
           },
-        };
+        }
       },
     },
   },
@@ -39,4 +39,4 @@ module.exports = {
     extend: {},
   },
   plugins: [require("@tailwindcss/forms"), require("@tailwindcss/typography")],
-};
+}

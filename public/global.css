@@ -38,8 +38,7 @@
   font-family: "Chivo";
   font-style: normal;
   font-weight: 700;
-  src: url("/fonts/Chivo-Bold.woff2") format("woff2"),
-    url("/fonts/Chivo-Bold.woff") format("woff");
+  src: url("/fonts/Chivo-Bold.woff2") format("woff2"), url("/fonts/Chivo-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -86,8 +85,7 @@
   font-family: "Unna";
   font-style: normal;
   font-weight: 700;
-  src: url("/fonts/Unna-Bold.woff2") format("woff2"),
-    url("/fonts/Unna-Bold.woff") format("woff");
+  src: url("/fonts/Unna-Bold.woff2") format("woff2"), url("/fonts/Unna-Bold.woff") format("woff");
 }
 
 @font-face {
