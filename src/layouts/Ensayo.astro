@@ -22,14 +22,11 @@ const slug = Astro.request.url.pathname.substr(1)
         {metadata.titulo}
       </h1>
       <div class="flex items-center justify-center gap-2 text-sm md:text-base mt-4 md:mt-8 mb-8">
-        <div class="relative rounded-full overflow-hidden w-8 h-8 md:w-12 md:h-12">
-          <img
-            src={`/autores/${metadata.autor.instagram}.jpg`}
-            alt={metadata.autor.nombre}
-            objectFit="cover"
-            objectPosition="center"
-          />
-        </div>
+        <img
+          src={`/autores/${metadata.autor.instagram}.jpg`}
+          alt={metadata.autor.nombre}
+          class="rounded-full w-8 h-8 md:w-12 md:h-12"
+        />
         <div class="leading-none">
           <p>{metadata.autor.nombre}</p>
           <p class="text-gray-600 hover:text-red-500 transition-colors">
@@ -47,10 +44,8 @@ const slug = Astro.request.url.pathname.substr(1)
         <img
           src={`/ensayos-assets/${slug}/${metadata.cabezera.src}`}
           alt={metadata.cabezera.alt}
-          width={700}
-          height={400}
-          objectFit="cover"
         />
+
         <slot/>
       </div>
     </main>
