@@ -11,7 +11,7 @@ layout: ../layouts/Ensayo.astro
 
 Todas las mañanas leo las noticias mientras desayuno. Abro varios diarios digitales y me informo; leo sobre qué sucedió ayer para enfrentarme al hoy. Personalmente, no consumo medios televisivos ni radiales, pero conocidos y familiares sí y en mayor medida que la impresa o digital. Es la fuente principal de actualidad de la gran mayoría de personas, incluyéndome. Nos enteramos de los sucesos más recientes, ya sucedan a doscientos kilómetros o a diez cuadras. A decir verdad, es una maravilla logística cómo nos llega tanta información desde lugares tan lejanos y en tan poco tiempo, ¡cómo nos informan!… ¿no?
 
-## ¿Periodismo o adoctrinación?
+## ¿Periodismo o adoctrinamiento?
 
 Para posicionarnos en el tema, hay que plantear qué es la prensa. El periodismo, el diario o los medios de comunicación son organismos encargados de la obtención, tratamiento, interpretación, redacción y difusión de informaciones. Sencillo, ¿no? En un principio, uno pensaría que hacer periodismo es una actividad programática: ves qué pasó, lo redactás lindo y lo mandás al diario, siempre siguiendo las reglas del buen periodista. En el caso de ser una investigación grande, el proceso sería semejante pero más laborioso. Resulta que no y esto es algo que nadie nos explica. Siempre hay un factor de subjetividad añadido, siempre hay un porqué detrás de las noticias que se dictan, y esto puede hacernos creer una realidad falaz. Hay intereses, hay un fin.
 
@@ -23,7 +23,7 @@ Por ejemplo, “_El kirchnerismo insiste en que Federico Basualdo no se va ‘ha
 
 ## El sesgo de confirmación
 
-He aquí la cuestión fundamental de esos titulares: ¿Qué te gustaría leer, un artículo que explique cómo funcionan los nuevos impuestos o uno que titulado “LA MEDIDA DEL PARTIDO QUE NO ME GUSTA ESTÁ MAL, HAY QUE HACER UN GOLPE DE ESTADO”? Posiblemente dirías que la primera, obvio, ambos somos personas inteligentes y de culto, pero casi seguro que ante esos dos titulares leamos el segundo, inconscientemente, por una movida psicológica llamada **sesgo de confirmación**, que postula que a los humanos nos encanta que nos digan que tenemos razón y nos da por las pelotas equivocarnos.
+He aquí la cuestión fundamental de esos titulares: ¿Qué te gustaría leer, un artículo que explique cómo funcionan los nuevos impuestos o uno que titulado “LA MEDIDA DEL PARTIDO QUE NO ME GUSTA ESTÁ MAL, HAY QUE HACER UN GOLPE DE ESTADO”? Posiblemente dirías que la primera, obvio, ambos somos personas inteligentes, pero casi seguro que ante esos dos titulares leamos el segundo, inconscientemente, por una movida psicológica llamada **sesgo de confirmación**, que postula que a los humanos nos encanta que nos digan que tenemos razón y nos da por las pelotas equivocarnos.
 
 Consecuentemente, esto genera un caldo de cultivo de falacias, ya que nos hace más propensos a creer una mentira que se alinee con nuestro pensamientos. Si yo voté al gobierno de turno y leo “todo va requetebien” y luego leo “50% de pobreza”, tenderé a creer el primer titular y a olvidarme del segundo. Como célebremente dijo Roger Ailes, fundador de Fox News y manipulador nato: “_truth is whatever people will believe_” (la verdad es lo que la gente esté dispuesta a creer) y “_I want to elect the next president_” (quiero elegir al próximo presidente).
 
