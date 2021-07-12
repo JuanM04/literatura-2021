@@ -11,32 +11,25 @@ module.exports = {
         display: ["Chivo", ...defaultTheme.fontFamily.sans],
         body: ["Unna", ...defaultTheme.fontFamily.serif],
       },
-      typography: theme => {
-        const heading = {
-          fontFamily: theme("fontFamily.display").join(", "),
-          textAlign: "left",
-        }
-
-        return {
-          DEFAULT: {
-            css: {
-              textAlign: "justify",
-              fontFamily: theme("fontFamily.body").join(", "),
-              // color: theme("colors.black"),
-              h1: heading,
-              h2: heading,
-              h3: heading,
-              h4: heading,
-              h5: heading,
-              h6: heading,
-              img: {
-                marginLeft: "auto",
-                marginRight: "auto",
-              },
+      typography: theme => ({
+        DEFAULT: {
+          css: {
+            textAlign: "justify",
+            fontFamily: theme("fontFamily.body").join(", "),
+            // color: theme("colors.black"),
+            "h1, h2, h3, h4, h5, h6": {
+              fontFamily: theme("fontFamily.display").join(", "),
+              textAlign: "left",
             },
+            img: {
+              marginLeft: "auto",
+              marginRight: "auto",
+            },
+            "blockquote p:first-of-type::before": null,
+            "blockquote p:last-of-type::after": null,
           },
-        }
-      },
+        },
+      }),
     },
   },
   variants: {
