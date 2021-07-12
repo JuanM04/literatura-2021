@@ -1,11 +1,11 @@
 ---
 titulo: La historia la escriben los que matan
 autor:
- nombre: Agustina García Guzzo
- instagram: agusgguzzo
+  nombre: Agustina García Guzzo
+  instagram: agusgguzzo
 cabezera:
- src: spanish-inquisition.jpg
- alt: Cuadro de los españoles invadiendo a los pueblos americanos
+  src: spanish-inquisition.jpg
+  alt: Cuadro de los españoles invadiendo a los pueblos americanos
 layout: ../layouts/Ensayo.astro
 ---
 

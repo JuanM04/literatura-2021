@@ -16,7 +16,7 @@ El Covid-19 continúa afectando nuestras vidas cotidianas desde hace ya más de 
 
 Me siento constantemente invadida de sentimientos. Entre ellos el miedo, la ansiedad, la angustia, el estrés, el enojo y la más constante: la incertidumbre, todo el tiempo me pongo a pensar ¿Qué va a ocurrir? ¿Cómo vamos a combatir a este virus? ¿Podremos volver a la normalidad? Y si es así, ¿cuándo?
 
-Esta pandemia ha tenido un efecto socioeconómico disruptivo, ya que, para evitar la propagación del virus los distintos gobiernos han impuesto restricciones; las cuales nos prohíben el contacto social de forma extrema y nos generan nuevos desafíos bastante difíciles de enfrentar porque se sabe que todos los humanos necesitamos constantemente de otros individuos. 
+Esta pandemia ha tenido un efecto socioeconómico disruptivo, ya que, para evitar la propagación del virus los distintos gobiernos han impuesto restricciones; las cuales nos prohíben el contacto social de forma extrema y nos generan nuevos desafíos bastante difíciles de enfrentar porque se sabe que todos los humanos necesitamos constantemente de otros individuos.
 
 Al principio de la pandemia, en marzo del 2020 me costó adaptarme al hecho de no salir de mi casa, de no ver a mis amigas ni familia y de tener clases de manera virtual. Fueron cambios muy arduos y a los que nunca me hubiese imaginado enfrentar, pero con el tiempo estas acciones ya se volvieron cotidianas para mí.
 

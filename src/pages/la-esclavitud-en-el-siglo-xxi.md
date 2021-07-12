@@ -1,5 +1,5 @@
 ---
-titulo: La esclavitud en el siglo XII
+titulo: La esclavitud en el siglo XXI
 autor:
   nombre: Carolina Castillo
   instagram: caastillocaro
@@ -21,9 +21,9 @@ Desde muy chica tuve acceso a dispositivos tecnológicos tales como teléfonos, 
 
 Según un estudio global realizado en febrero del 2019 por la Oficina de Naciones Unidas contra las Drogas y el Delito, el perfil de las víctimas en su mayoría está representado por el sexo femenino, siendo el 49 y 23% de las víctimas mujeres y niñas respectivamente, mientras que el 21 y 7% restante son hombres y niños.
 
-Del total de víctimas mujeres, el 83 % son captadas con fines de explotación sexual, el 13% con fines de explotación laboral y el 4% restante es indefinido.
+Del total de víctimas mujeres, el 83 % son captadas con fines de explotación sexual, el 13% con fines de explotación laboral y el 4% restante es indefinido. Mientras que el 50% de niñas están destinadas al trabajo forzoso, el 27% a la explotación sexual y un 23% para otros fines. Del total de hombres, el 82% está destinado a fines laborales, un 10% con fines de explotación sexual, un 1% para extracción de órganos y un 7% con otros propósitos. En cuanto a niños, un 50% está destinado al trabajo forzado, 27% a la explotación sexual y el 23% fue captado con otros fines.
 
-Mientras que el 50% de niñas están destinadas al trabajo forzoso, el 27% a la explotación sexual y un 23% para otros fines. Del total de hombres, el 82% está destinado a fines laborales, un 10% con fines de explotación sexual, un 1% para extracción de órganos y un 7% con otros propósitos. En cuanto a niños, un 50% está destinado al trabajo forzado, 27% a la explotación sexual y el 23% fue captado con otros fines. Según el informe, la explotación sexual es la principal razón de trata de personas con un porcentaje del 59%. Mientras que el trabajo forzado representa un 34% y el 7% restante para extracción de órganos y otros.
+Según el informe, la explotación sexual es la principal razón de trata de personas con un porcentaje del 59%. Mientras que el trabajo forzado representa un 34% y el 7% restante para extracción de órganos y otros.
 
 También, se diferenció entre los continentes. Por ejemplo, la trata de mujeres y niñas con fines de explotación sexual se dio mayormente en países de América, Europa, Asia del Este y Pacífico. Por otro lado, la explotación laboral de hombres adultos se dio mayoritariamente en África Subsahariana y Medio Oriente.
 
