@@ -18,7 +18,7 @@ const cabezeraUrl = `/ensayos-assets/${slug}/${metadata.cabezera.src}`
     <!-- <meta name="description" content="" /> -->
     <meta property="og:title" content={metadata.titulo} />
     <meta property="og:type" content="article" />
-    <meta property="og:image" content={cabezeraUrl} />
+    <meta property="og:image" content={Astro.request.url.origin + cabezeraUrl} />
     <meta property="og:url" content={Astro.request.url.href} />
   </head>
 
