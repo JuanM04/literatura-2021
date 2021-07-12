@@ -5,17 +5,14 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import GlobalHead from '../components/GlobalHead'
 
-// TODO: Add the rest of ensayos
 
-// const ensayos = Astro.fetchContent('./*.md')
-const mine = Astro.fetchContent('./lo-vi-en-la-tele.md')
-const ensayos = new Array(20).fill(mine[0])
+const ensayos = Astro.fetchContent('./*.md')
 
 const anomalies = [
   "xl:col-start-2 xl:col-end-4 xl:row-start-1 xl:row-end-3",
   "xl:col-start-1 xl:col-end-4 xl:row-start-4",
-  "xl:col-start-2 xl:col-end-4 xl:row-start-7",
-  "xl:col-start-1 xl:col-end-3 xl:row-start-[8]",
+  // "xl:col-start-2 xl:col-end-4 xl:row-start-7",
+  // "xl:col-start-1 xl:col-end-3 xl:row-start-[8]",
 ]
 ---
 
@@ -49,7 +46,7 @@ const anomalies = [
               <a href={ensayo.url} class="w-full h-full flex flex-col justify-center items-center backdrop-brightness-50 hover:backdrop-brightness-[0.75] transition-all">
                 <p
                   class={clsx(
-                    "text-white font-bold drop-shadow text-3xl",
+                    "text-white text-center font-bold drop-shadow text-3xl",
                     anormal && "xl:text-5xl"
                   )}
                 >

@@ -11,6 +11,7 @@ export const ensayoMetadataSchema = z.object({
   cabezera: z.object({
     src: z.string().nonempty(),
     alt: z.string().optional(),
+    omitir: z.boolean().default(false),
   }),
 })
 

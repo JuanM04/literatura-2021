@@ -14,9 +14,9 @@ const cabezeraUrl = `/ensayos-assets/${slug}/${metadata.cabezera.src}`
 <html lang="es">
   <head>
     <GlobalHead />
-    <title>{metadata.titulo} - Ensayos</title>
+    <title>{metadata.titulo}</title>
     <!-- <meta name="description" content="" /> -->
-    <meta property="og:title" content={`${metadata.titulo} - Ensayos`} />
+    <meta property="og:title" content={metadata.titulo} />
     <meta property="og:type" content="article" />
     <meta property="og:image" content={cabezeraUrl} />
     <meta property="og:url" content={Astro.request.url.href} />
@@ -49,7 +49,7 @@ const cabezeraUrl = `/ensayos-assets/${slug}/${metadata.cabezera.src}`
         </div>
       </div>
       <div class="prose prose-red lg:prose-xl mx-auto">
-        <img src={cabezeraUrl} alt={metadata.cabezera.alt} />
+        {!metadata.cabezera.omitir && <img src={cabezeraUrl} alt={metadata.cabezera.alt} />}
         <slot/>
       </div>
     </main>
