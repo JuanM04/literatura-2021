@@ -29,6 +29,10 @@ module.exports = {
               h4: heading,
               h5: heading,
               h6: heading,
+              img: {
+                marginLeft: "auto",
+                marginRight: "auto",
+              },
             },
           },
         }
