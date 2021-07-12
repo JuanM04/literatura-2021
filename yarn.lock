@@ -47,13 +47,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/renderer-react@npm:0.1.4":
-  version: 0.1.4
-  resolution: "@astrojs/renderer-react@npm:0.1.4"
+"@astrojs/renderer-react@npm:0.1.5":
+  version: 0.1.5
+  resolution: "@astrojs/renderer-react@npm:0.1.5"
   dependencies:
     react: ^17.0.2
     react-dom: ^17.0.2
-  checksum: 44563e7a7acd63ae29169060afb8d8f5f27d1a552d1c442166a8ad17368325fba3fd582ddf24b0c89065a07e98934861aec365dc142ad77007a8d01137e188fd
+  checksum: fdf5a2623e84d67953fa884c0e6c119c792925a09cd350e70da1f0abda093018ffdc466b2da4ab51d56997f43c0bc2ecc9c0f153e27c9ca2879d39d043b41282
   languageName: node
   linkType: hard
 
@@ -465,10 +465,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^15.12.5":
+"@types/node@npm:*":
   version: 15.12.5
   resolution: "@types/node@npm:15.12.5"
   checksum: 42485de7a0b7277ddaae25b36ab4174fc8f23e8a5de9ccaedd002ecec17135c48227a5e09088d181c2bc34fe6b2064feb4a468954372076fd8addac2f72dad7e
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^16.3.1":
+  version: 16.3.1
+  resolution: "@types/node@npm:16.3.1"
+  checksum: 2021138afd66a9235f4b64e412dd8a8d1199f3d17303c2868ab062a10214ba76b793bf4f59e14c3bf981623e099843855776390b445d840779cb171c2fcb97a9
   languageName: node
   linkType: hard
 
@@ -479,10 +486,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:^2":
-  version: 2.3.1
-  resolution: "@types/prettier@npm:2.3.1"
-  checksum: 62ddbb1ba05d0df97fe49536e0d5409ea76d45cd2f6de062ff351d049e667b77010d2e912733d5d3255829fa1958c684a059e619f9d81e2ba9f27a6204a06149
+"@types/prettier@npm:^2.3.2":
+  version: 2.3.2
+  resolution: "@types/prettier@npm:2.3.2"
+  checksum: 7b425386aaf3b03fa63382ed1aceff367477ef9a52a2705978bfb1495fa1d8795316e1ab84671f6c8c5920de59a33d1567d837b9eb033996983efdfdbce84cb3
   languageName: node
   linkType: hard
 
@@ -502,10 +509,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/tailwindcss@npm:^2":
-  version: 2.2.0
-  resolution: "@types/tailwindcss@npm:2.2.0"
-  checksum: 939bbfc27bff494dd54285676b85dd4521adc5d224f758dc84bbf46a26be40d07c257e99ed932bc7537f1e066b227f4fa7239154ab41c844c402aa9d3be4965d
+"@types/tailwindcss@npm:^2.2.1":
+  version: 2.2.1
+  resolution: "@types/tailwindcss@npm:2.2.1"
+  checksum: 4ea11fd5e81e20d71c5f376550965711010cd34ec8b67b77501f1dca7391de175223277764ae3bc0c262aaa6cabea5ff0b7ab91b37a64d58d584965979afbbd5
   languageName: node
   linkType: hard
 
@@ -822,15 +829,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^0.16.1":
-  version: 0.16.1
-  resolution: "astro@npm:0.16.1"
+"astro@npm:^0.17.2":
+  version: 0.17.2
+  resolution: "astro@npm:0.17.2"
   dependencies:
     "@astrojs/markdown-support": 0.2.0
     "@astrojs/parser": 0.15.4
     "@astrojs/prism": 0.2.2
     "@astrojs/renderer-preact": 0.1.3
-    "@astrojs/renderer-react": 0.1.4
+    "@astrojs/renderer-react": 0.1.5
     "@astrojs/renderer-svelte": 0.1.1
     "@astrojs/renderer-vue": 0.1.3
     "@babel/code-frame": ^7.12.13
@@ -843,6 +850,7 @@ __metadata:
     astring: ^1.7.4
     autoprefixer: ^10.2.5
     cheerio: ^1.0.0-rc.6
+    ci-info: ^3.2.0
     del: ^6.0.0
     es-module-lexer: ^0.4.1
     esbuild: ^0.10.1
@@ -867,17 +875,18 @@ __metadata:
     rollup: ^2.43.1
     rollup-plugin-terser: ^7.0.2
     sass: ^1.32.13
+    semver: ^7.3.5
     shorthash: ^0.0.2
     slash: ^4.0.0
-    snowpack: ^3.6.2
+    snowpack: 3.7.1
     source-map-support: ^0.5.19
     string-width: ^5.0.0
     tiny-glob: ^0.2.8
     unified: ^9.2.1
     yargs-parser: ^20.2.7
   bin:
-    astro: astro.mjs
-  checksum: 261aec7edb162305f6b44af5a422584cd648e2779026c2ddff55c545ea9a54782b32e8da8994baac0ba14002d75c51ed80b37d0026adec6579421ebb8492986a
+    astro: astro.cjs
+  checksum: cb3c17d05cc0b418931367af74c841555876e8a71b02b508df3ec2cb1a621ba27a3f17161376dbb970c4b908da95fe1fd44dcf00b93ee9ecad5a2733c82fbe2a
   languageName: node
   linkType: hard
 
@@ -888,7 +897,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.2.5, autoprefixer@npm:^10.2.6":
+"autoprefixer@npm:^10.2.5":
   version: 10.2.6
   resolution: "autoprefixer@npm:10.2.6"
   dependencies:
@@ -903,6 +912,24 @@ __metadata:
   bin:
     autoprefixer: bin/autoprefixer
   checksum: 805414d4efe4f25c6162edc65ad999235ea28cf11b6a1ed838b055ef1f777368dd16c978b44d0b48bb96a3420948d26da27066d5caa4f81bcee1946e9a269532
+  languageName: node
+  linkType: hard
+
+"autoprefixer@npm:^10.3.1":
+  version: 10.3.1
+  resolution: "autoprefixer@npm:10.3.1"
+  dependencies:
+    browserslist: ^4.16.6
+    caniuse-lite: ^1.0.30001243
+    colorette: ^1.2.2
+    fraction.js: ^4.1.1
+    normalize-range: ^0.1.2
+    postcss-value-parser: ^4.1.0
+  peerDependencies:
+    postcss: ^8.1.0
+  bin:
+    autoprefixer: bin/autoprefixer
+  checksum: f220c29c98fe740e27308e418f3e45978ceb209ff0d77276ca01e0ef15089e1936bc1746eac9309c92af15de1a4ace21926aad47a5355e2fa84ffdfabc7f7b0f
   languageName: node
   linkType: hard
 
@@ -1088,6 +1115,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"caniuse-lite@npm:^1.0.30001243":
+  version: 1.0.30001243
+  resolution: "caniuse-lite@npm:1.0.30001243"
+  checksum: 0d6330d2279c9ec2b58cf5154ec80eeea6bca861825a791f037c644e36cf28a19db32a35a66ac989ee026b7d19ffc0eb3ad78fbc8512f7433b0caa1964de4999
+  languageName: node
+  linkType: hard
+
 "caseless@npm:~0.12.0":
   version: 0.12.0
   resolution: "caseless@npm:0.12.0"
@@ -1195,6 +1229,13 @@ __metadata:
   version: 2.0.0
   resolution: "chownr@npm:2.0.0"
   checksum: b06ba0bf4218bc2214cdb94a7d0200db5c6425f9425795c064dcf5a3801aac8ae87f764727890cd1f48c026559159e7e0e15ed3d1940ce453dec54898d013379
+  languageName: node
+  linkType: hard
+
+"ci-info@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "ci-info@npm:3.2.0"
+  checksum: d4a898d60111d00f2b7a06a349162971fe0603aefa208fe8d1343ce9e93c48e3d37311c47211d5c9040d25b43038c817588e5b7d8eab5d17b00aec49c7b5fade
   languageName: node
   linkType: hard
 
@@ -1629,17 +1670,17 @@ __metadata:
   dependencies:
     "@tailwindcss/forms": ^0.3.3
     "@tailwindcss/typography": ^0.4.1
-    "@types/node": ^15.12.5
-    "@types/prettier": ^2
-    "@types/tailwindcss": ^2
-    astro: ^0.16.1
-    autoprefixer: ^10.2.6
+    "@types/node": ^16.3.1
+    "@types/prettier": ^2.3.2
+    "@types/tailwindcss": ^2.2.1
+    astro: ^0.17.2
+    autoprefixer: ^10.3.1
     clsx: ^1.1.1
     postcss: ^8.3.5
     prettier: ^2.3.2
     tailwindcss: ^2.2.4
     typescript: ^4.3.5
-    zod: ^3.2.0
+    zod: ^3.5.1
   languageName: unknown
   linkType: soft
 
@@ -4699,7 +4740,7 @@ resolve@^1.20.0:
   languageName: node
   linkType: hard
 
-"snowpack@npm:^3.6.2":
+"snowpack@npm:3.7.1":
   version: 3.7.1
   resolution: "snowpack@npm:3.7.1"
   dependencies:
@@ -5540,10 +5581,10 @@ typescript@^4.3.5:
   languageName: node
   linkType: hard
 
-"zod@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "zod@npm:3.2.0"
-  checksum: 6a1bd281ddf19fa73c8a578672c9300d2702f7cee63ddb5f855f776e3ae64ba5250925fb04a008245fa18c06248521bc613f9c280ba393bf286bf4d64c6550dc
+"zod@npm:^3.5.1":
+  version: 3.5.1
+  resolution: "zod@npm:3.5.1"
+  checksum: c9950b5163bd63b8471a6fca61bc8d6779f7f11ff2d980b59dc5936e4da7ace1931e1420770f62bc23b6e8a132bfe7f695e43c27ac560d427262fc90e1e2c2b2
   languageName: node
   linkType: hard
 

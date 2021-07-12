@@ -5,17 +5,17 @@
     "build": "astro build"
   },
   "dependencies": {
-    "astro": "^0.16.1",
+    "astro": "^0.17.2",
     "clsx": "^1.1.1",
-    "zod": "^3.2.0"
+    "zod": "^3.5.1"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/typography": "^0.4.1",
-    "@types/node": "^15.12.5",
-    "@types/prettier": "^2",
-    "@types/tailwindcss": "^2",
-    "autoprefixer": "^10.2.6",
+    "@types/node": "^16.3.1",
+    "@types/prettier": "^2.3.2",
+    "@types/tailwindcss": "^2.2.1",
+    "autoprefixer": "^10.3.1",
     "postcss": "^8.3.5",
     "prettier": "^2.3.2",
     "tailwindcss": "^2.2.4",
