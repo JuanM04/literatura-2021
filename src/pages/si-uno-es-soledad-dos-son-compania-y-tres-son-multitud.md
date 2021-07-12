@@ -1,0 +1,30 @@
+---
+titulo: Si uno es soledad, dos son compañía y tres… ¿son multitud?
+autor:
+  nombre: Alma Guillán
+  instagram: alma_guillanr
+cabezera:
+  src: boda-interrumpida.jpg
+  alt: Una boda siendo interrumpida
+layout: ../layouts/Ensayo.astro
+---
+
+“Uno ingresa en un dispositivo previo en el que se construye nuestra subjetividad afectiva”, dijo el filósofo Darío Sztajnszrajber en una entrevista con Luis Novaresio hablando sobre el amor. Él deconstruye al amor con esta frase, que explica al amor como un ordenamiento normativo, impuesto previamente, en el que se desarrollan los distintos sentimientos que tenemos. “ ¿Todos estamos repitiendo la historia de Adan y Eva?¿Todos estamos repitiendo la historia de Romeo y Julieta?¿Todos estamos repitiendo la historia de Quijote y Dulcinea?”, plantea Darío, reflexionando sobre nuestra forma de ver el amor, expresando de manera implícita a lo que aspiramos en nuestras relaciones, lo que queremos repetir, cuestionando el por qué queremos repetirlo,  quién nos dice que las pautas de las relaciones se encuentran en esas historias, encontrando en estas problemáticas como: la sociedad patriarcal, un amor trágico con una muerte absurda y una construcción idealizada de un otro imposible.
+
+Si observamos a través del tiempo, toda justificación, toda explicación, todo argumento para todas las situaciones de la vida, redundan en la religión. La idealización de una pareja, sobretodo con una mujer y un hombre, pero eso es tema para otra charla, se plantea desde Adán y Eva, la creación de dios para un mundo ideal y perfecto, un mundo en el que existen reglas que condicionan a las personas, o mejor dicho, reglas que seguimos, nos auto-encasillamos. ¿Por qué seguimos estas parejas ideales? Si nos paramos a pensar, lo ideal lo hace inalcansable, totalmente externo a la realidad en la que vivimos.
+
+Los seres humanos somos racionales, personas con sentimientos, con deseos que no podemos guardar por mucho tiempo, entonces ¿Quién dice que tenemos que reprimirnos?. Al ingresar en una relación monogámica, nos tomamos el trabajo de adaptarnos, de ceder para que el otro se sienta cómodo, de callarnos opiniones para no lastimar al otro, entonces si Dios es un ser benevolente ¿Por qué nos creó de una forma en la que tenemos que reprimirnos en nombre del amor? Si se supone que somos seres libres.
+
+A su vez, estamos acostumbrados a buscar todo lo que necesitamos en una persona, es la típica frase de “sos todo lo que busco”, pero no tenemos en cuenta que las personas estamos en un constante cambio, evolucionamos y nos replanteamos nuestro entorno, entonces ¿qué pasa cuando cambiamos nuestra forma de ver las cosas? ¿suponemos que ese otro tiene que cambiar con nosotrxs?
+
+Santiago Maratea, un influencer argentino muy reconocido en todas sus redes sociales, en una charla con su ex-compañera de radio Sofia Carmona, en el programa que conducían llamado “ Generación Perdida”, planteó: “Todo lo que el mundo tiene para ofrecerte, yo no te lo puedo dar”, mientras tenían una charla sobre las relaciones abiertas, dando a entender la magnitud del mundo, imposible de entrar solo en una persona.
+
+La poligamia es una forma de amar distinta a la que nos impusieron, “es la capacidad de amar a más de una persona” dijo el sexólogo Patricio Gómez Di Leiva en una entrevista en C5N, lo cual no quiere decir que sea la correcta, porque no hay una verdad absoluta, solo interpretaciones de la verdad. “La relación tradicional, la de nuestros abuelos, está en crisis, ahora hay otros modelos, cada uno tiene que elegir sus modelos” dijo Patricio, insertando las relaciones abiertas como una opción totalmente viable para la sociedad. Los profetas de la poligamia transitan el amor de forma libre, sin ataduras, en la que las personas que conforman la relación puedan ser ellos mismos, sin reprimir, sin ceder, sin callar, ser como ellos quieren ser. Y como todas las relaciones, tienen pautas, pero son consensuadas entre los dos participantes.
+
+El pilar más importante de estos vínculos es la comunicación, la confianza y la seguridad. Es expresarle al otro el amor que uno siente, dejando el egoísmo de lado para que este sea y no sienta presiones a la hora de pensar o expresar sentimientos.
+
+Aunque, como toda relación, no todo es color de rosa. Ésta te lleva a transitar y trabajar todas las inseguridades que uno tiene, te ayuda a reflexionar y replantearte la forma en la que actuás y por qué. Como todo, lleva un proceso y una introspección, hay que estar mentalmente preparado, libre de estereotipos e ideales impuestos.
+
+Si nos ponemos a pensar, dentro de las relaciones monogámicas ocurren una cantidad enorme de infidelidades, y la pregunta es ¿Por qué suceden estas cosas? Todxs lxs que han sido infieles tienden a arrepentirse de haberlo hecho, pero ¿de qué se arrepienten? ¿De haber lastimado al otro o de haber cumplido su deseo? Y creo yo que la respuesta está a la vista. El problema nunca es la infidelidad, el cumplimiento de ese deseo, el problema es haberse permitido cumplirlo sin pensar en lo que esa acción le cause a la otra persona. ¿Por qué las personas traicionan y después piden perdón? ¿Por qué no enfrentan su deseo y lo plantean? La respuesta es el miedo. Miedo a quedarnos solos, miedo a que no nos entiendan. Somos seres sociales, individuos insertados en una sociedad y el problema es que no podemos salir de ella, pero nos da miedo salirnos de la norma y actuar diferente al resto, nos da miedo la no-aceptación. 
+
+Yo nunca entendí las relaciones abiertas, me daba miedo la idea de que el otro encuentre algo mejor en otra persona, lo sentía como una traición, como un engaño, pero ¿Por qué tenemos que oprimir nuestros sentimientos cuando podemos tener a las personas que amamos al lado y a la vez cumplirlos? ¿No nos sentiremos mejor?
