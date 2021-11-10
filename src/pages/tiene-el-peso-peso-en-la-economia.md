@@ -15,7 +15,7 @@ layout: ../layouts/Ensayo.astro
 
 ![Un billete de 100 dólares, pero con Belgrano en vez de Franklin](/ensayos-assets/tiene-el-peso-peso-en-la-economia/dolar-belgrano.jpg)
 
-No hace mucho tiempo, en una reunión familiar surgió como tema de conversación la crisis del 2001 y las consecuencias posteriores que esta trajo consigo.  En un momento se trajo a la luz los Patacones y cómo muchas provincias tenían su propia moneda. Fue allí, en ese preciso momento en el que me pregunté ¿Es factible seguir con pesos en el bolsillo?
+No hace mucho tiempo, en una reunión familiar surgió como tema de conversación la crisis del 2001 y las consecuencias posteriores que esta trajo consigo. En un momento se trajo a la luz los Patacones y cómo muchas provincias tenían su propia moneda. Fue allí, en ese preciso momento en el que me pregunté ¿Es factible seguir con pesos en el bolsillo?
 
 De chico era muy común para mí el ir a un supermercado y que cuando la chica que me atendía en la caja no tuviese monedas dijese de una u otra forma “no tengo cambio, ¿te puedo dar caramelos?” y sin pensar, por comodidad o por facilidad, aceptar la oferta, y considerar que esos caramelos, valían más que mis dos o tres pesos que podía insistir con quedarme.
 

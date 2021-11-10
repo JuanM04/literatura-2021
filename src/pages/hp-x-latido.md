@@ -1,21 +1,21 @@
 ---
 titulo: HP X LATIDO
 autor:
- nombre: Juan Manuel Ferrere
- instagram: jmanuel.ferrere_
+  nombre: Juan Manuel Ferrere
+  instagram: jmanuel.ferrere_
 cabezera:
- src: motor.jpg
- alt: Motor Ford
+  src: motor.jpg
+  alt: Motor Ford
 layout: ../layouts/Ensayo.astro
 ---
 
 ¿Un auto viejo? ¿Que ya no sirve más? Bueno, la mayoría lo miran así, como algo que ya pasó de moda, que no sirve o que está hecho mierda, yo no.
 
-Un falcon un Dodge GTX, una Chevy, el que quieras me causa esa cosa en la panza como mariposas como admiración por ese pedazo de chapa, sí, chapa,  no plástico como los de ahora, que pasa por la calle y marca esa presencia de auto que se hizo para durar para que sea para siempre, duro, rústico, ruidoso.
+Un falcon un Dodge GTX, una Chevy, el que quieras me causa esa cosa en la panza como mariposas como admiración por ese pedazo de chapa, sí, chapa, no plástico como los de ahora, que pasa por la calle y marca esa presencia de auto que se hizo para durar para que sea para siempre, duro, rústico, ruidoso.
 
 Abrir un capot y ver un 6/8 cilindros y quedarte enamorado con lo que hay es distinto a como lo ven otros, como si fuera chatarra. Y cómo te vas a comprar eso que es re viejo, no te sirve para nada. Me gusta, lo compré y me encanta, no me arrepiento. ¿Qué los autos nuevos no me gustan? Sí, puede ser que me gusten, pero saber que el 80 % de autos que hoy en día se fabrican están destinados a que duren 7 u 8 año, 10 como mucho, eso no me llama nada la atención; en cambio, ver un auto con más de 70, 90 años, que se fabricó y que hoy anda lo más bien por la calle eso sí es admirable.
 
-Que duren tanto se refiere a que fue hecho para uno como persona, se asegure que eso que le gusta tanto le quede para siempre por más que reniegues, por más que falle, sabés que con un poco de tiempo lo arreglás, lo mejorás. Hoy en día, si  se te rompe un plástico te sale una fortuna y ni hablar si se te rompe una inyección electrónica, te conviene comprar otro auto antes que arreglarlo.
+Que duren tanto se refiere a que fue hecho para uno como persona, se asegure que eso que le gusta tanto le quede para siempre por más que reniegues, por más que falle, sabés que con un poco de tiempo lo arreglás, lo mejorás. Hoy en día, si se te rompe un plástico te sale una fortuna y ni hablar si se te rompe una inyección electrónica, te conviene comprar otro auto antes que arreglarlo.
 
 A veces sí el avance de la tecnología es bueno, pero otras, te complica. Te complica ver tantos cables en un vano motor y ni saber para qué sirven, abrir un capot de un auto de los 80/70 te da seguridad, confianza al saber qué hay ahí adentro, que está solamente el motor con algunos que otros cables para las luces u otra boludez. Sacando de lado el motor, te subís a un auto nuevo y te marean la cantidad de botones que ves, y ¿dónde metes los cambios? Si son la mayoría automáticos, hasta algunos ni palanca tienen.
 

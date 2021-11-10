@@ -31,7 +31,6 @@ Estos datos nos ayudan a pensar en dónde estamos parados y también a notar la 
 
 En los últimos meses, se ha puesto de moda, dentro de un cierto grupo etario, la aplicación OnlyFans. En la cual pagás por una membresía y accedes a un mundo completamente diferente donde millones de personas te ofrecen contenido erótico.
 
-
 Quienes publican estas fotos o videos personales son, en su mayoría, personas que buscan ganar "dinero fácil" en cuestión de semanas, sin tener en cuenta las consecuencias que podrían conllevar.
 
 Durante la pandemia, según Bloomberg, la plataforma ganó alrededor de 500.000 por día y facturó un total de 2.000 millones de dólares en el 2020.
