@@ -3,12 +3,9 @@
     "**/.yarn": true,
     "**/.pnp.*": true
   },
-  "typescript.tsdk": ".yarn/sdks/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "eslint.nodePath": ".yarn/sdks",
   "[markdown]": {
     "editor.wordWrap": "on",
     "editor.quickSuggestions": false,
