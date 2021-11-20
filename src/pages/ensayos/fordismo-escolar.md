@@ -8,8 +8,8 @@ cabezera:
 layout: layouts/Ensayo.astro
 ---
 
-![Escuela un siglo atrás](fordismo-escolar/escuela-vieja.jpg)
-![Escuela hoy en día](fordismo-escolar/escuela-actual.jpg)
+![Escuela un siglo atrás](./escuela-vieja.jpg)
+![Escuela hoy en día](./escuela-actual.jpg)
 
 La RAE define a la escuela como una “institución donde se dan o se reciben ciertos tipos de instrucción” y por instrucción indica “caudal de conocimientos adquiridos”.
 

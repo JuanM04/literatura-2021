@@ -36,4 +36,4 @@ Estamos ante un problema social y cultural. Cada día es más indignante vivir e
 
 No podemos seguir actuando como si nada pasase. No podemos solo preocuparnos o tomar conciencia cuando nos sucede cerca una situación de este estilo. Está en nosotros como sociedad cambiar nuestra manera de pensar y actuar. Nosotras, mujeres, no dejemos que esta pandemia invisible nos destruya.
 
-![Mano que dice "La violencia deja marcas, no verlas deja femicidios"](la-pandemia-invisible/mano-mensaje.jpg)
+![Mano que dice "La violencia deja marcas, no verlas deja femicidios"](./mano-mensaje.jpg)

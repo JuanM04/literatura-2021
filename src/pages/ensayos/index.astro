@@ -6,6 +6,7 @@ import Footer from "components/EnsayoFooter.astro"
 import GlobalHead from "components/GlobalHead.astro"
 
 import { getAutor } from "utils/autores"
+import { joinUrl } from "utils/join-url"
 
 const ensayos = Astro.fetchContent("./*.md")
 
@@ -42,7 +43,7 @@ const anomalies = [
                 "relative w-full min-h-[300px] rounded-lg overflow-hidden shadow hover:shadow-xl transition-shadow bg-cover bg-center",
                 anormal && anomalies[i],
               )}
-              style={`background-image: url('${ensayo.url}/${ensayo.cabezera.src}');`}
+              style={`background-image: url(${joinUrl(ensayo.url, ensayo.cabezera.src)});`}
             >
               <a
                 href={ensayo.url}

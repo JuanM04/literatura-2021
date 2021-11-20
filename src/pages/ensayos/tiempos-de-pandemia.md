@@ -24,7 +24,7 @@ Es importante encontrar una manera de poder seguir viviendo lo más parecido a l
 
 Luego de una serie de encuestas a la población general de Argentina hecha por el UNICEF, este año se llegó a la conclusión de que los y las adolescentes manifestaron que se sienten angustiados (33%), asustados (25%) y deprimidos (18%). Todos estos indicadores aumentaron respecto de las encuestas anteriores.
 
-![Una cabeza con las palabras "ansiedad", "estrés", "pánico", etc.](tiempos-de-pandemia/ansiedad.jpg)
+![Una cabeza con las palabras "ansiedad", "estrés", "pánico", etc.](./ansiedad.jpg)
 
 El Coronavirus cambió la forma en que se imparte la educación a lo largo de todo el mundo, ya que, la escuela y el hogar se convirtieron en el mismo lugar. Esto nos deja reflexionando a los estudiantes acerca de los muchos otros roles que la escuela ofrece además de lo académico, ya que, en nuestras casas no sociabilizamos con nuestros compañeros ni profesores, no tenemos la oportunidad de hacer actividades prácticas y todo se torna aburrido y complicado.
 
