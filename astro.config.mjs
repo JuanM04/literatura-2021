@@ -3,7 +3,7 @@
 /** @type {import('astro').AstroUserConfig} */
 const config = {
   buildOptions: {
-    site: "https://ensayos.vercel.app",
+    site: "https://literatura-2021.vercel.app",
     pageUrlFormat: "directory",
   },
   devOptions: {
