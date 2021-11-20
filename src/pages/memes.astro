@@ -1,0 +1,27 @@
+---
+import GlobalHead from "components/GlobalHead.astro"
+
+import Meme from "components/Meme.astro"
+---
+
+<html lang="es">
+  <head>
+    <GlobalHead />
+    <title>Memes</title>
+    <!-- <meta name="description" content="" /> -->
+    <meta property="og:title" content="Memes" />
+    <meta property="og:type" content="website" />
+    <!-- <meta property="og:image" content="" /> -->
+    <meta property="og:url" content={Astro.request.url.href} />
+  </head>
+
+  <body class="font-display">
+    <main class="max-w-2xl mx-auto border-gray-300 border divide-gray-300 divide-y">
+      <Meme autor="_saraburton_" />
+      <Meme autor="agusgguzzo" />
+      <Meme autor="beluaristi" />
+      <Meme autor="juanmartinseery" />
+      <Meme autor="nina_garabano" />
+    </main>
+  </body>
+</html>

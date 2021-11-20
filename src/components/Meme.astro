@@ -1,0 +1,33 @@
+---
+import { getAutor } from "utils/autores"
+
+export interface Props {
+  autor: string
+}
+
+const { autor: autorHandle } = Astro.props
+const autor = getAutor(autorHandle)
+---
+
+<div class="text-gray-900 text-md flex items-start p-4">
+  <a
+    href={autor.instagramUrl}
+    class="block rounded-full w-16 pr-3"
+    target="_blank"
+    rel="noreferrer noopener"
+  >
+    <img
+      src={autor.avatar}
+      alt={autor.nombre}
+      class="rounded-full w-full hover:brightness-90 transition-all"
+    />
+  </a>
+  <div class="w-full">
+    <a href={autor.instagramUrl} class="block w-min whitespace-nowrap pb-3 group"
+      ><span class="font-bold group-hover:underline">{autor.nombre}</span>
+      <span class="text-gray-700">@{autor.handle}</span></a
+    >
+    <img src={`./${autor.handle}.jpg`} alt="Meme" class="w-full rounded-xl border border-gray-300"
+    />
+  </div>
+</div>
