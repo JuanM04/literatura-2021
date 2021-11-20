@@ -1,19 +1,17 @@
 ---
 titulo: ¿Tiene el peso, peso en la economía?
-autor:
-  nombre: Tomás Seisdedos
-  instagram: tomas.seisdedos
+autor: tomas.seisdedos
 cabezera:
   src: dolar-belgrano.jpg
   alt: Un billete de 100 dólares, pero con Belgrano en vez de Franklin
   omitir: true
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 > "La inflación es esencialmente antidemocrática."  
 > El Estado omnipotente (1944), **Ludwig von Mises**
 
-![Un billete de 100 dólares, pero con Belgrano en vez de Franklin](/ensayos-assets/tiene-el-peso-peso-en-la-economia/dolar-belgrano.jpg)
+![Un billete de 100 dólares, pero con Belgrano en vez de Franklin](tiene-el-peso-peso-en-la-economia/dolar-belgrano.jpg)
 
 No hace mucho tiempo, en una reunión familiar surgió como tema de conversación la crisis del 2001 y las consecuencias posteriores que esta trajo consigo. En un momento se trajo a la luz los Patacones y cómo muchas provincias tenían su propia moneda. Fue allí, en ese preciso momento en el que me pregunté ¿Es factible seguir con pesos en el bolsillo?
 

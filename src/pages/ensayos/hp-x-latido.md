@@ -1,12 +1,10 @@
 ---
 titulo: HP X LATIDO
-autor:
-  nombre: Juan Manuel Ferrere
-  instagram: jmanuel.ferrere_
+autor: jmanuel.ferrere_
 cabezera:
   src: motor.jpg
   alt: Motor Ford
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 ¿Un auto viejo? ¿Que ya no sirve más? Bueno, la mayoría lo miran así, como algo que ya pasó de moda, que no sirve o que está hecho mierda, yo no.

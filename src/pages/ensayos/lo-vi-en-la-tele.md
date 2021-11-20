@@ -1,12 +1,10 @@
 ---
 titulo: Lo vi en la tele
-autor:
-  nombre: Juan Martín Seery
-  instagram: juanmartinseery
+autor: juanmartinseery
 cabezera:
   src: canosa.jpg
   alt: Viviana Canosa tomando dióxido de cloro
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 Todas las mañanas leo las noticias mientras desayuno. Abro varios diarios digitales y me informo; leo sobre qué sucedió ayer para enfrentarme al hoy. Personalmente, no consumo medios televisivos ni radiales, pero conocidos y familiares sí y en mayor medida que la impresa o digital. Es la fuente principal de actualidad de la gran mayoría de personas, incluyéndome. Nos enteramos de los sucesos más recientes, ya sucedan a doscientos kilómetros o a diez cuadras. A decir verdad, es una maravilla logística cómo nos llega tanta información desde lugares tan lejanos y en tan poco tiempo, ¡cómo nos informan!… ¿no?

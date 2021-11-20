@@ -1,12 +1,10 @@
 ---
 titulo: La esclavitud en el siglo XXI
-autor:
-  nombre: Carolina Castillo
-  instagram: caastillocaro
+autor: caastillocaro
 cabezera:
   src: mujer-atendiendo.jpg
   alt: Mujer semidesnuda con un cartel de "abierto" y hombres haciendo fila
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 Recuerdo tener 10 años y estar mirando televisión en el comedor de mi casa mientras cenaba en una noche de viernes. En la tele estaban pasando las noticias del día. No recuerdo con exactitud lo que decían, tampoco entendía demasiado. Pero hubo algo que me llamó la atención y aún no dejo de pensarlo.

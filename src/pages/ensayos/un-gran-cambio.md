@@ -1,12 +1,10 @@
 ---
 titulo: Un gran cambio
-autor:
-  nombre: Belén Aristi
-  instagram: beluaristi
+autor: beluaristi
 cabezera:
   src: elongando.jpg
   alt: Personas de diferentes edades elongando con barbijos
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 Nunca me imaginé que en un mismo espacio iba a tener que vivir, estudiar y entrenar, que ya no podría compartir con más personas eso que nos apasiona, que ante ciertas medidas me las tendría que rebuscar sola, con ayuda de mis profesores a distancia. Nunca se me cruzó por la cabeza que dejaría de ir a ese lugar donde me hacía bien, tanto físico como psicológico, no se sabía cuándo se iba a volver y eso preocupaba y desmotivaba al mismo tiempo, no solo a mí sino a todos.

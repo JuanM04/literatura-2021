@@ -1,12 +1,10 @@
 ---
 titulo: La historia la escriben los que matan
-autor:
-  nombre: Agustina García Guzzo
-  instagram: agusgguzzo
+autor: agusgguzzo
 cabezera:
   src: spanish-inquisition.jpg
   alt: Cuadro de los españoles invadiendo a los pueblos americanos
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 Colón no descubrió América. Empezamos por ahí. En las discusiones acaloradas sobre historia cuando decía que es incorrecto postular la llegada de los europeos como descubrimiento siendo que en América ya había gente, y bastante, recibía miradas de exasperada paciencia y explicaciones un poco burdas. “Que ese postulado se refiere desde la mirada europea, descubrimiento para ellos que no conocían el continente, etc.” Cuando la argumentación entraba en ese terreno intentaba ser conciliadora y contraargumentar que, igualmente, la flota de la corona española no había sido la primera en arribar a estas costas. Error. Hay cosas en donde no hay que conciliar nada y esta es una de ellas.

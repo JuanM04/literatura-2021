@@ -1,12 +1,10 @@
 ---
 titulo: Si uno es soledad, dos son compañía y tres… ¿son multitud?
-autor:
-  nombre: Alma Guillán
-  instagram: alma_guillanr
+autor: alma_guillanr
 cabezera:
   src: boda-interrumpida.jpg
   alt: Una boda siendo interrumpida
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 “Uno ingresa en un dispositivo previo en el que se construye nuestra subjetividad afectiva”, dijo el filósofo Darío Sztajnszrajber en una entrevista con Luis Novaresio hablando sobre el amor. Él deconstruye al amor con esta frase, que explica al amor como un ordenamiento normativo, impuesto previamente, en el que se desarrollan los distintos sentimientos que tenemos. “¿Todos estamos repitiendo la historia de Adan y Eva? ¿Todos estamos repitiendo la historia de Romeo y Julieta? ¿Todos estamos repitiendo la historia de Quijote y Dulcinea?”, plantea Darío, reflexionando sobre nuestra forma de ver el amor, expresando de manera implícita a lo que aspiramos en nuestras relaciones, lo que queremos repetir, cuestionando el por qué queremos repetirlo, quién nos dice que las pautas de las relaciones se encuentran en esas historias, encontrando en estas problemáticas como: la sociedad patriarcal, un amor trágico con una muerte absurda y una construcción idealizada de un otro imposible.

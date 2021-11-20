@@ -1,12 +1,10 @@
 ---
 titulo: Pase al vacío
-autor:
-  nombre: Facundo Meli
-  instagram: facundo.meli
+autor: facundo.meli
 cabezera:
   src: arco-vacio.jpg
   alt: Un arco vacío y un jugador centado en el centro de la cancha
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 El soccer, balompié, fútbol, fulbo, fúbol, fulbito o “un picadito” forman parte del top 10 de las palabras más nombradas del mundo. Toda persona en el planeta Tierra conoce su dinámica, dos equipos de 11, dos arcos y un arquero por equipo, se patea una pelota redonda y solo el arquero puede agarrarla con la mano, eso que a simple vista parece simple es la razón de su absoluta popularidad. El propósito de este ensayo no es analizar ni su historia ni su base, sino, todo su circo mediático que lo rodea y de algún otro modo lo condiciona a ser parte de la boca de todos.

@@ -1,12 +1,10 @@
 ---
 titulo: ¿Ficción o realidad?
-autor:
-  nombre: Sara Burton
-  instagram: _saraburton_
+autor: _saraburton_
 cabezera:
   src: zendaya.jpg
   alt: Zendaya llorando; póster de la serie Euphoria (2019)
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 Con el aburrimiento que me trajo la cuarentena del año pasado, no solo tuve mucho tiempo para ver series y películas, sino que tuve aún más tiempo para reflexionar sobre ellas, ante todo sobre una que terminó siendo una de mis series favoritas: Euphoria. Esta serie retrata a los adolescentes de la sociedad estadounidense con sus tabúes, sus abusos y, además, retrata una generación hiperconectada, alimentada por las redes sociales, harta de la monotonía y, en general, muy susceptible, de la cual también soy parte.

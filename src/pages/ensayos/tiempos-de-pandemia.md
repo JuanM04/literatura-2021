@@ -1,13 +1,11 @@
 ---
 titulo: Tiempos de pandemia
-autor:
-  nombre: Trinidad Sasso
-  instagram: trinisasso
+autor: trinisasso
 cabezera:
   src: ansiedad.jpg
   alt: Una cabeza con las palabras "ansiedad", "estrés", "pánico", etc.
   omitir: true
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 A las 7 de la mañana me suena la alarma, la apago con ganas de seguir durmiendo, pero me levanto y me visto con algo cómodo. Después, me lavo la cara y bajo a prepararme el desayuno, esta rutina es demasiado cansadora. 7:30 tengo Matemática, una materia bastante difícil para entenderla virtualmente, pero sin embargo, con el correr de los días le agarro la mano. Sigo con clases virtuales hasta la una, para esa hora ya estoy agotada, me duelen los ojos por la computadora y ya no quiero estar más sentada. Almuerzo con mi familia y me acuesto un rato a descansar, pero no duermo. Antes de las dos de la tarde me levanto y me preparo todo lo que necesito para la clase de ingles que tengo hasta las cuatro, a esa hora recién termina mi día escolar. Después de aproximadamente 7hs de clases frente a una computadora estoy muy cansada y con muchísimas ganas de volver al colegio y ver a mis compañeros.
@@ -26,7 +24,7 @@ Es importante encontrar una manera de poder seguir viviendo lo más parecido a l
 
 Luego de una serie de encuestas a la población general de Argentina hecha por el UNICEF, este año se llegó a la conclusión de que los y las adolescentes manifestaron que se sienten angustiados (33%), asustados (25%) y deprimidos (18%). Todos estos indicadores aumentaron respecto de las encuestas anteriores.
 
-![Una cabeza con las palabras "ansiedad", "estrés", "pánico", etc.](/ensayos-assets/tiempos-de-pandemia/ansiedad.jpg)
+![Una cabeza con las palabras "ansiedad", "estrés", "pánico", etc.](tiempos-de-pandemia/ansiedad.jpg)
 
 El Coronavirus cambió la forma en que se imparte la educación a lo largo de todo el mundo, ya que, la escuela y el hogar se convirtieron en el mismo lugar. Esto nos deja reflexionando a los estudiantes acerca de los muchos otros roles que la escuela ofrece además de lo académico, ya que, en nuestras casas no sociabilizamos con nuestros compañeros ni profesores, no tenemos la oportunidad de hacer actividades prácticas y todo se torna aburrido y complicado.
 

@@ -1,0 +1,71 @@
+---
+import clsx from "clsx"
+
+import Header from "components/EnsayoHeader.astro"
+import Footer from "components/EnsayoFooter.astro"
+import GlobalHead from "components/GlobalHead.astro"
+
+import { getAutor } from "utils/autores"
+
+const ensayos = Astro.fetchContent("./*.md")
+
+const anomalies = [
+  "xl:col-start-2 xl:col-end-4 xl:row-start-1 xl:row-end-3",
+  "xl:col-start-1 xl:col-end-4 xl:row-start-4",
+  "xl:col-start-2 xl:col-end-4 xl:row-start-6",
+]
+---
+
+<html lang="es">
+  <head>
+    <GlobalHead />
+    <title>Ensayos</title>
+    <!-- <meta name="description" content="" /> -->
+    <meta property="og:title" content="Ensayos" />
+    <meta property="og:type" content="website" />
+    <!-- <meta property="og:image" content="" /> -->
+    <meta property="og:url" content={Astro.request.url.href} />
+  </head>
+
+  <body class="font-display">
+    <Header bigHeader />
+
+    <main class="max-w-screen-xl mx-auto px-2">
+      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 justify-center">
+        {ensayos.map((ensayo, i) => {
+          const anormal = anomalies.length > i
+          const autor = getAutor(ensayo.autor)
+
+          return (
+            <div
+              class={clsx(
+                "relative w-full min-h-[300px] rounded-lg overflow-hidden shadow hover:shadow-xl transition-shadow bg-cover bg-center",
+                anormal && anomalies[i],
+              )}
+              style={`background-image: url('${ensayo.url}/${ensayo.cabezera.src}');`}
+            >
+              <a
+                href={ensayo.url}
+                class="w-full h-full flex flex-col justify-center items-center backdrop-brightness-50 hover:backdrop-brightness-[0.75] transition-all"
+              >
+                <p
+                  class={clsx(
+                    "text-white text-center font-bold drop-shadow text-3xl leading-none",
+                    anormal && "xl:text-5xl",
+                  )}
+                >
+                  {ensayo.titulo}
+                </p>
+                <p class={clsx("text-white drop-shadow text-sm mt-2", anormal && "xl:text-base")}>
+                  Por <span class="font-bold">{autor.nombre}</span>
+                </p>
+              </a>
+            </div>
+          )
+        })}
+      </div>
+    </main>
+
+    <Footer />
+  </body>
+</html>

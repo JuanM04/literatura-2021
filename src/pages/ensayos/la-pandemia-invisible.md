@@ -1,12 +1,10 @@
 ---
 titulo: La pandemia invisible
-autor:
-  nombre: Nina Garabano
-  instagram: nina_garabano
+autor: nina_garabano
 cabezera:
   src: mujer_barbijo.jpg
   alt: Mujer con un barbijo negro
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
 En el 2020 hubo un femicidio cada 29 horas en Argentina. Un total de 298 entre el 1º de enero y el 31 de diciembre. 298 mujeres menos.
@@ -38,4 +36,4 @@ Estamos ante un problema social y cultural. Cada día es más indignante vivir e
 
 No podemos seguir actuando como si nada pasase. No podemos solo preocuparnos o tomar conciencia cuando nos sucede cerca una situación de este estilo. Está en nosotros como sociedad cambiar nuestra manera de pensar y actuar. Nosotras, mujeres, no dejemos que esta pandemia invisible nos destruya.
 
-![Mano que dice "La violencia deja marcas, no verlas deja femicidios"](/ensayos-assets/la-pandemia-invisible/mano-mensaje.jpg)
+![Mano que dice "La violencia deja marcas, no verlas deja femicidios"](la-pandemia-invisible/mano-mensaje.jpg)

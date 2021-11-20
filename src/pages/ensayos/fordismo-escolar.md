@@ -1,17 +1,15 @@
 ---
 titulo: Fordismo escolar
-autor:
-  nombre: Facundo Jara
-  instagram: facundjara
+autor: facundjara
 cabezera:
   src: escuelas.png
   alt: Una escuela vieja junto a una actual
   omitir: true
-layout: ../layouts/Ensayo.astro
+layout: layouts/Ensayo.astro
 ---
 
-![Escuela un siglo atrás](/ensayos-assets/fordismo-escolar/escuela-vieja.jpg)
-![Escuela hoy en día](/ensayos-assets/fordismo-escolar/escuela-actual.jpg)
+![Escuela un siglo atrás](fordismo-escolar/escuela-vieja.jpg)
+![Escuela hoy en día](fordismo-escolar/escuela-actual.jpg)
 
 La RAE define a la escuela como una “institución donde se dan o se reciben ciertos tipos de instrucción” y por instrucción indica “caudal de conocimientos adquiridos”.
 
