@@ -1,6 +1,6 @@
 ---
 titulo: ¿Tiene el peso, peso en la economía?
-autor: tomas.seisdedos
+autor: isthat_tomas
 cabezera:
   src: dolar-belgrano.jpg
   alt: Un billete de 100 dólares, pero con Belgrano en vez de Franklin
