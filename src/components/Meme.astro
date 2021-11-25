@@ -23,10 +23,10 @@ const autor = getAutor(autorHandle)
     />
   </a>
   <div class="w-full">
-    <a href={autor.instagramUrl} class="block w-min whitespace-nowrap pb-3 group"
-      ><span class="font-bold group-hover:underline">{autor.nombre}</span>
-      <span class="text-gray-700">@{autor.handle}</span></a
-    >
+    <a href={autor.instagramUrl} class="block w-min whitespace-nowrap pb-3 group">
+      <span class="font-bold group-hover:text-red-500 transition-colors">{autor.nombre}</span>
+      <span class="text-gray-700">@{autor.handle}</span>
+    </a>
     <img src={`./${autor.handle}.jpg`} alt="Meme" class="w-full rounded-xl border border-gray-300"
     />
   </div>
