@@ -6,20 +6,20 @@
   },
   "packageManager": "yarn@3.1.0",
   "dependencies": {
-    "astro": "^0.21.2",
+    "astro": "^0.21.4",
     "clsx": "^1.1.1",
     "zod": "^3.11.6"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.3.4",
     "@tailwindcss/typography": "^0.4.1",
-    "@types/node": "^16.11.9",
+    "@types/node": "^16.11.10",
     "@types/prettier": "^2.4.2",
     "@types/tailwindcss": "^2.2.4",
     "autoprefixer": "^10.4.0",
-    "postcss": "^8.3.11",
+    "postcss": "^8.4.1",
     "prettier": "^2.4.1",
-    "prettier-plugin-astro": "^0.0.10",
+    "prettier-plugin-astro": "^0.0.11",
     "tailwindcss": "^2.2.19",
     "typescript": "^4.5.2"
   }
